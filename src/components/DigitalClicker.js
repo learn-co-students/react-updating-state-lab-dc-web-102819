@@ -14,7 +14,7 @@ export default class DigitalClicker extends Component{
         })
     }
     render(){
-        console.log(this.state.timesClicked)
+        // console.log(this.state.timesClicked)
         return(
             <div>
                 Click Me
